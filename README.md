@@ -25,8 +25,6 @@ Features:
 
 ### Prerequisites
 
-**Node version 18.x.x**
-
 ### Cloning the repository
 
 ```shell
@@ -49,7 +47,6 @@ NEXT_PUBLIC_CLERK_SIGN_IN_URL=
 NEXT_PUBLIC_CLERK_SIGN_UP_URL=
 NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=
 NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=
-
 
 DATABASE_URL=
 
